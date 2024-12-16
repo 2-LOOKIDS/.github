@@ -33,16 +33,22 @@
 
 ---
 
-## 🚀 주요 기능
+## 🚀 기능 소개
 
+- **메인 페이지**:
 - **피드**: 사용자들이 반려동물 사진과 글을 업로드하며 자신의 일상을 기록하고 공유할 수 있는 기능을 제공합니다.
 좋아요와 댓글을 통해 사용자 간의 상호작용을 촉진합니다.
 - **채팅**: 반려동물에 대한 정보와 경험을 사용자들 간에 쉽게 공유할 수 있도록 실시간 채팅 기능을 제공합니다.
 1:1 대화 및 그룹 채팅 지원으로 커뮤니케이션의 편리성을 높입니다.
 - **피드 기반 위치 정보**: 피드에 업로드된 사진의 위치 정보를 활용하여 지도에 핀으로 표시합니다.
 방문한적 있던 추억의 장소들을 지도에서 핀으로 조회하실 수 있습니다.
+- **유저 프로필**:
 - **펫 프로필**:
 - **댓글&대댓글**:
+- **마이 페이지**:
+- **회원가입 &로그인**:
+- **검색**:
+
 
 
 ---
@@ -59,6 +65,7 @@
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-3B3B3B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAeRk5mAAAABGdBTUEAALGPC/xhBQAAAAJcEhZcwAADsMAAA7DAcdvqGQAABJ5RVh0U29mdHwgQmF0Y2hWb3JrZXI=)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-23A03A?style=for-the-badge&logo=Gradle&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 - FE: Next.js(14.2.5), Node.js(20.5.1), TypeScript(5.1.3)
 
@@ -81,6 +88,8 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white)
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
+
 
 - COMMON: Swagger(2.0.2), Kibana(7.10.1)
 
@@ -91,6 +100,10 @@
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
+
+- TOOL: intellj, vscode
+<img src="https://img.shields.io/badge/IntelliJIDEA-1e88e5?&style=for-the-badge&logo=intellij-idea&logoColor=white">
+
 
 ---
 
@@ -107,16 +120,17 @@
 
 ## 🔧 서버 구성 및 데이터베이스
 
-- 아키텍처
 
  ![아키텍처흐름도](https://github.com/user-attachments/assets/a8282d39-549f-4fe7-bf68-3c3bc2e8afc2) 
 
-- ERD
 
-| Original ERD |
+| RDB - MySQL |
 | --- |
-| <img src="![datagrip_erd](https://github.com/user-attachments/assets/7e2ffe70-15ac-4e94-b144-e8b236b6c802)
-" alt="old_erd" width="700" /> |
+| <img src="https://github.com/user-attachments/assets/7e2ffe70-15ac-4e94-b144-e8b236b6c802" height="400" width="700" /> |
+|  |
+| NoSQL - MongoDB |
+| <img src="https://github.com/user-attachments/assets/1139e32c-67b8-4500-bfab-a978194c5413" height="400" width="700" /> | 
+
 
 | Architecture Rebuilding |
 | --- |
@@ -160,6 +174,33 @@
   : 검색 데이터 약 500,000개 기준. JPA search 379 ms -> Elasticsearch 12 ms
 
 ---
+
+<br/>
+
+## 개발 후기
+
+| 💻 김현진 <br> .|
+|:---------------------------|
+
+| 🍀 김성수 <br> .|
+|:---------------------------|
+
+| 🥨 박상언 <br> .|
+|:---------------------------|
+
+| 🐬 신지훈 <br> .|
+|:---------------------------|
+
+| ✨ 함민서 <br> .|
+|:---------------------------|
+
+| 🐬 김범규 <br> .|
+|:---------------------------|
+
+| 🥨 김재훈 <br> .|
+|:---------------------------|
+
+<br/>
 
 ## 📄 라이센스
 
