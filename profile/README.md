@@ -149,7 +149,7 @@
 
 | 메인 페이지 | 회원가입 | 로그인&소셜로그인 |
 | --- | --- | --- |
-| <img src="https://github.com/user-attachments/assets/e5c727ca-619d-4239-a771-1830fd56f931" height="300" width="200" /> | <img src="https://github.com/user-attachments/assets/bf4e7eb6-8535-4f0c-9f76-af60bb213b6b" height="300" width="200" /> | <img src="images/agreement_page.png" height="300" width="200" /> |
+| <img src="https://github.com/user-attachments/assets/e5c727ca-619d-4239-a771-1830fd56f931" height="300" width="200" /> | <img src="https://github.com/user-attachments/assets/bf4e7eb6-8535-4f0c-9f76-af60bb213b6b" height="300" width="200" /> | <img src="https://github.com/user-attachments/assets/f8c8d6d2-6298-42dc-bd41-8f1f63fb2fbf" height="300" width="200" /> |
 
 | 마이페이지 | 검색 | 유저 프로필 |
 | --- | --- | --- |
@@ -158,11 +158,11 @@
 
 | 채팅 | 지도 | 댓글&대댓글 |
 | --- | --- | --- |
-| <img src="images/best_page.png" height="300" width="200" /> | <img src="https://github.com/user-attachments/assets/d3d1cbcd-9264-4fe0-9c23-7d4ef2ada55b" height="300" width="200" /> | <img src="images/coupon_page.png" height="300" width="200" /> | 
+| <img src="https://github.com/user-attachments/assets/5fb75db2-ceec-484f-9b02-652f96d89ed8" height="300" width="200" /> | <img src="https://github.com/user-attachments/assets/d3d1cbcd-9264-4fe0-9c23-7d4ef2ada55b" height="300" width="200" /> | <img src="https://github.com/user-attachments/assets/5c70fd35-3e1a-4c99-a779-c8ab4ba59b05" height="300" width="200" /> | 
 
 | 피드 상세 | 팔로우&팔로잉 리스트 |  |
 | --- | --- | --- |
-| <img src="[images/best_page.png](https://github.com/user-attachments/assets/3d568cf8-d2f2-47d1-844e-df6e57e750e8)" height="300" width="200" /> | <img src="images/cart_page.png" height="300" width="200" /> |  |
+| <img src="https://github.com/user-attachments/assets/20124ff0-2c4d-415f-8f8f-af07d9454970" height="300" width="200" /> | <img src="https://github.com/user-attachments/assets/157a4b7b-c52d-41e6-8539-31f6a052cc6e" height="300" width="200" /> |  <img src="https://github.com/user-attachments/assets/3351bccc-eb5d-4a71-8122-98ff27e30207" height="300" width="200" /> | |
 
 
 
