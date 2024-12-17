@@ -149,7 +149,7 @@
 
 | 메인 페이지 | 회원가입 | 로그인&소셜로그인 |
 | --- | --- | --- |
-| <img src="https://github.com/user-attachments/assets/e5c727ca-619d-4239-a771-1830fd56f931" height="300" width="200" /> | <img src="https://github.com/user-attachments/assets/bf4e7eb6-8535-4f0c-9f76-af60bb213b6b" height="300" width="200" /> | <img src="https://github.com/user-attachments/assets/f8c8d6d2-6298-42dc-bd41-8f1f63fb2fbf" height="300" width="200" /> |
+| <img src="https://github.com/user-attachments/assets/e5c727ca-619d-4239-a771-1830fd56f931" height="300" width="200" /> | <img src="https://github.com/user-attachments/assets/bf4e7eb6-8535-4f0c-9f76-af60bb213b6b" height="300" width="200" /> | <img src="https://github.com/user-attachments/assets/c6e5c19b-b757-4bfd-8839-1d151e5713f0" height="300" width="200" /> <img src="https://github.com/user-attachments/assets/06f54f8c-0372-4151-aacf-68b1fc68aa66" height="300" width="200" /> |
 
 | 마이페이지 | 검색 | 유저 프로필 |
 | --- | --- | --- |
