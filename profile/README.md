@@ -170,7 +170,7 @@
 
 | 마이페이지 | 검색 | 유저 프로필 |
 | --- | --- | --- |
-| <img src="https://github.com/user-attachments/assets/11613340-8e7e-4e8d-9523-79111198b3f4" height="300" width="200" /> <img src="https://github.com/user-attachments/assets/6053140f-149b-43e2-bb27-cfeefc4e759a" height="300" width="200" /> | <img src="https://github.com/user-attachments/assets/9fef2654-d228-4946-b561-3550690ca7b6" height="300" width="200" /> | <img src="https://github.com/user-attachments/assets/571068ca-7794-444a-9869-f107f3235379" height="300" width="200" /> | 
+| <img src="https://github.com/user-attachments/assets/11613340-8e7e-4e8d-9523-79111198b3f4" height="300" width="180" /> <img src="https://github.com/user-attachments/assets/6053140f-149b-43e2-bb27-cfeefc4e759a" height="300" width="180" /> | <img src="https://github.com/user-attachments/assets/9fef2654-d228-4946-b561-3550690ca7b6" height="300" width="200" /> | <img src="https://github.com/user-attachments/assets/571068ca-7794-444a-9869-f107f3235379" height="300" width="200" /> | 
 
 
 | 채팅 | 지도 | 댓글&대댓글 |
