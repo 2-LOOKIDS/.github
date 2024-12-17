@@ -73,11 +73,7 @@
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-3B3B3B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAeRk5mAAAABGdBTUEAALGPC/xhBQAAAAJcEhZcwAADsMAAA7DAcdvqGQAABJ5RVh0U29mdHwgQmF0Y2hWb3JrZXI=)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-23A03A?style=for-the-badge&logo=Gradle&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Firebase Cloud Messaging](https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black)  
-![SMTP](https://img.shields.io/badge/SMTP-FF5733?style=for-the-badge&logo=Mail.Ru&logoColor=white)  
-![SSE](https://img.shields.io/badge/SSE-000000?style=for-the-badge&logo=Serverless&logoColor=white)  
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=Apache%20Kafka&logoColor=white)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase Cloud Messaging](https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black) ![SMTP](https://img.shields.io/badge/SMTP-FF5733?style=for-the-badge&logo=Mail.Ru&logoColor=white) ![SSE](https://img.shields.io/badge/SSE-000000?style=for-the-badge&logo=Serverless&logoColor=white)   ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=Apache%20Kafka&logoColor=white)  
 
 - FE: Next.js(14.2.5), Node.js(20.5.1), TypeScript(5.1.3)
 
@@ -94,10 +90,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-![Spring Config](https://img.shields.io/badge/Spring%20Config-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)  
-![Eureka](https://img.shields.io/badge/Eureka-5C2D91?style=for-the-badge&logo=Netflix&logoColor=white)  
-![Spring Gateway](https://img.shields.io/badge/Spring%20Gateway-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)  
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=Docker&logoColor=white) ![Spring Config](https://img.shields.io/badge/Spring%20Config-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)   ![Eureka](https://img.shields.io/badge/Eureka-5C2D91?style=for-the-badge&logo=Netflix&logoColor=white)   ![Spring Gateway](https://img.shields.io/badge/Spring%20Gateway-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)  
 - DATABASE: MySQL(8.0.39), ElasticSearch(7.10.1)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
@@ -120,7 +113,7 @@
 
 
 - TOOL: intellj, vscode
-<img src="https://img.shields.io/badge/IntelliJIDEA-1e88e5?&style=for-the-badge&logo=intellij-idea&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJIDEA-1e88e5?&style=for-the-badge&logo=intellij-idea&logoColor=white"> ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)   ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)   ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)  
 
 
 ---
