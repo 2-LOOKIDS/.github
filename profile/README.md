@@ -63,6 +63,7 @@
 ## ⚙️ 기술 스택
 
 - BE: Spring boot(3.2.8), JDK(17), Gradle(8.8), IntelliJ(2024.1.4)
+- alarm-service: Spring boot(3.3.10), swagger(2.2.0)
 
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![spring_boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -73,6 +74,10 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-23A03A?style=for-the-badge&logo=Gradle&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Firebase Cloud Messaging](https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black)  
+![SMTP](https://img.shields.io/badge/SMTP-FF5733?style=for-the-badge&logo=Mail.Ru&logoColor=white)  
+![SSE](https://img.shields.io/badge/SSE-000000?style=for-the-badge&logo=Serverless&logoColor=white)  
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=Apache%20Kafka&logoColor=white)  
 
 - FE: Next.js(14.2.5), Node.js(20.5.1), TypeScript(5.1.3)
 
@@ -80,7 +85,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white)
 
-- INFRA: Ubuntu(Ubuntu 20.04 LTS), Docker(27.0.3), Docker-compose(2.28.1)
+- INFRA: Ubuntu(Ubuntu 20.04 LTS), Docker(27.3.1), Docker-compose(2.29.1)
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
 ![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
@@ -90,12 +95,16 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-
+![Spring Config](https://img.shields.io/badge/Spring%20Config-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)  
+![Eureka](https://img.shields.io/badge/Eureka-5C2D91?style=for-the-badge&logo=Netflix&logoColor=white)  
+![Spring Gateway](https://img.shields.io/badge/Spring%20Gateway-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)  
 - DATABASE: MySQL(8.0.39), ElasticSearch(7.10.1)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white)
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)  
+
 
 
 - COMMON: Swagger(2.0.2), Kibana(7.10.1)
@@ -107,6 +116,8 @@
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
+<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"> 
+
 
 - TOOL: intellj, vscode
 <img src="https://img.shields.io/badge/IntelliJIDEA-1e88e5?&style=for-the-badge&logo=intellij-idea&logoColor=white">
@@ -117,13 +128,19 @@
 ## 🎯 프로젝트 목표
 
 1. **Msa를 적용하여 서비스간의 에러 전파 방지 및 유연한 확장성**  
-   ㅁㄴㅇㅁㄴ
-2. **프론트엔드와 백엔드 협업**  
+   - 우리의 반려동물 SNS 서비스는 MSA(Microservices Architecture)와 EDA(Event-Driven Architecture)를 기반으로 설계되었습니다. 이를 통해 사용자, 게시물, 댓글, 지도 기능 등 주요 기능을 독립적인 마이크로서비스로 분리하여 운영하며, 서비스 간 효율적이고 실시간으로 데이터를 처리할 수 있는 구조를 구현했습니다.
+
+2. **EDA 를 활용한 비동기 처리**
+   -EDA를 통해 서비스 간 이벤트 기반 통신을 구현하여, 실시간 데이터 처리가 필요한 기능에 최적화된 구조를 제공하고 있습니다. 예를 들어, 사용자가 반려동물 사진을 업로드하거나 댓글을 작성하면 해당 이벤트가 즉시 전송되어 관련 서비스들이 빠르게 반응할 수 있습니다.
+   
+3. **프론트엔드와 백엔드 협업**  
    효율적인 협업을 통해 통합된 웹 서비스 구축
-3. **최신 웹 기술 적용**  
+4. **최신 웹 기술 적용**  
    최신 기술 트렌드를 반영하여 실무에서의 문제 해결 능력 향상
 
 ---
+
+
 
 ## 🔧 서버 구성 및 데이터베이스
 
@@ -139,9 +156,6 @@
 | <img src="https://github.com/user-attachments/assets/1139e32c-67b8-4500-bfab-a978194c5413" height="400" width="700" /> | 
 
 
-| Architecture Rebuilding |
-| --- |
-| <img src="images/new_erd.png" alt="new_erd" width="700" /> |
 
 ---
 
@@ -192,16 +206,35 @@
 
 ## 📄 라이센스
 
-<BackEnd>
-Java 17, Spring Boot 3.2.10, mysql 9.1.0, momgoDB 8.0.3, redis 7.2.5, kafka 3.8, Elasticsearch 7.10.1						
+MIT 라이선스
 
----
+Copyright (c) 2024 lookids.online
 
-<FrontEnd>
-Next.js 14.2.6, nodeJs 18+
+본 소프트웨어 및 관련 문서 파일(이하 “소프트웨어”)의 사본을 취득하는 모든 사람에게 무료로 소프트웨어를 사용, 복사, 수정, 병합, 게시, 배포, 재실시, 판매할 수 있는 권리를 포함하여 소프트웨어를 제한 없이 다룰 수 있는 권한을 무료로 부여합니다. 단, 다음 조건을 충족해야 합니다:
 
----
+위 저작권 표시와 이 허가 표시가 소프트웨어의 모든 사본 또는 중요한 부분에 포함되어야 합니다.
 
-<DevOps>
-AWS ec2 t3.xlarge (Amazon Linux 2023 6.1, Apache Tomcat), Docker
+본 소프트웨어는 “있는 그대로” 제공되며, 명시적이든 묵시적이든 어떠한 종류의 보증도 제공되지 않습니다. 여기에는 상품성, 특정 목적에의 적합성 및 비침해성에 대한 보증이 포함되지만 이에 국한되지 않습니다. 저자는 어떠한 경우에도 소프트웨어와 관련되거나 소프트웨어의 사용 또는 기타 거래에서 발생하는 어떠한 청구, 손해 또는 기타 책임에 대해 책임을 지지 않습니다.
+
+MIT License
+
+Copyright (c) 2024 lookids.online
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
