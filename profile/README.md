@@ -162,7 +162,7 @@
 
 | 피드 상세 | 팔로우&팔로잉 리스트 |  |
 | --- | --- | --- |
-| <img src="https://github.com/user-attachments/assets/20124ff0-2c4d-415f-8f8f-af07d9454970" height="300" width="200" /> | <img src="https://github.com/user-attachments/assets/157a4b7b-c52d-41e6-8539-31f6a052cc6e" height="300" width="200" /> |  <img src="https://github.com/user-attachments/assets/3351bccc-eb5d-4a71-8122-98ff27e30207" height="300" width="200" /> | |
+| <img src="https://github.com/user-attachments/assets/20124ff0-2c4d-415f-8f8f-af07d9454970" height="300" width="200" /> | <img src="https://github.com/user-attachments/assets/157a4b7b-c52d-41e6-8539-31f6a052cc6e" height="300" width="200" />  <img src="https://github.com/user-attachments/assets/3351bccc-eb5d-4a71-8122-98ff27e30207" height="300" width="200" /> | |
 
 
 
