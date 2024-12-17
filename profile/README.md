@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7497390b-6e5d-4298-aeb1-03e19b3e56c1)# 🌟 Lookids 🌟
+🌟 Lookids 🌟
 **TEAM: LOOKIDS**
 
 > **신세계 I&C**와 **부산광역시**에서 주관하는 스파로스 아카데미 5기 소속 학생들이 진행한 **SNS 프로젝트**
@@ -142,8 +142,7 @@
 
 | 메인 페이지 | 회원가입 | 로그인&소셜로그인 |
 | --- | --- | --- |
-| <img src="![main_page](https://github.com/user-attachments/assets/e5c727ca-619d-4239-a771-1830fd56f931)
-" height="300" width="200" /> | <img src="images/login_page.png" height="300" width="200" /> | <img src="images/agreement_page.png" height="300" width="200" /> |
+| <img src="![main_page](https://github.com/user-attachments/assets/e5c727ca-619d-4239-a771-1830fd56f931)" height="300" width="200" /> | <img src="images/login_page.png" height="300" width="200" /> | <img src="images/agreement_page.png" height="300" width="200" /> |
 
 | 마이페이지 | 검색 | 유저 프로필 |
 | --- | --- | --- |
